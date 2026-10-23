@@ -1,1 +1,1 @@
-# timobsc-data-integration-project
+# data-integration-project
