@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / URL overrides
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Large raw datasets (do not commit GBs of raw data to git)
+data/raw/*.tsv
+data/raw/*.tsv.gz
+data/raw/*.csv
+data/processed/*.parquet
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Environment variables & keys
+.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
