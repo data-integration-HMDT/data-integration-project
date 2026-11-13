@@ -99,5 +99,5 @@ data-integration-project/
 * **Mitglieder:**
   * Timo Busch ([@timobsc](https://github.com/timobsc))
   * *[Name Teammitglied 2]* ([@henrigrauer](https://github.com/henrigrauer))
-  * *[Name Teammitglied 3]* ([@mkueverling](https://github.com/mkueverling))
+  * Marvin Küverling ([@mkueverling](https://github.com/mkueverling))
   * *[Name Teammitglied 4]* ([@GitHub-Username](https://github.com/))
