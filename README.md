@@ -100,4 +100,4 @@ data-integration-project/
   * Timo Busch ([@timobsc](https://github.com/timobsc))
   * Henri Grauer ([@henrigrauer](https://github.com/henrigrauer))
   * Marvin Küverling ([@mkueverling](https://github.com/mkueverling))
-  * Ibrahim ([@TOUNSI-db](https://github.com/TOUNSI-db))
+  * Ibrahim Dhaker([@TOUNSI-db](https://github.com/TOUNSI-db))
