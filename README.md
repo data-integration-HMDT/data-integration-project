@@ -1,7 +1,7 @@
 # Kölner Mietpreise und Lebensqualität: Eine empirische Analyse von Veedel-Strukturen, Infrastruktur und Mietpreisentwicklung
 
 > **Modul:** DIS 3.3 Data Integration • Wintersemester 2026/27  
-> **Hochschule:** TH Köln – University of Applied Sciences  
+> **Hochschule:** TH Köln – Technische Hochschule Köln 
 > **Dozent:** Prof. Dr. Timo Breuer  
 > **Team:** data-integration-HMDT  
 > **Status:** Milestone 1: Roadmap (Abgabe: 13.11.2026)
@@ -98,6 +98,6 @@ data-integration-project/
 * **Gruppe:** `data-integration-HMDT`
 * **Mitglieder:**
   * Timo Busch ([@timobsc](https://github.com/timobsc))
-  * *[Name Teammitglied 2]* ([@henrigrauer](https://github.com/henrigrauer))
+  * Henri Grauer ([@henrigrauer](https://github.com/henrigrauer))
   * Marvin Küverling ([@mkueverling](https://github.com/mkueverling))
-  * *[Name Teammitglied 4]* ([@GitHub-Username](https://github.com/))
+  * Ibrahim ([@GitHub-Username](https://github.com/))
