@@ -2,7 +2,7 @@
 
 > **Modul:** DIS 3.3 Data Integration • Wintersemester 2026/27  
 > **Hochschule:** TH Köln – Technische Hochschule Köln  
-> **Dozent:** Prof. Dr. Timo Breuer 
+> **Dozent:** Prof. Dr. Timo Breuer  
 > **Team:** data-integration-HMDT  
 > **Status:** Milestone 1: Roadmap (Abgabe: 13.11.2026)
 
