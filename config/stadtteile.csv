@@ -1,0 +1,87 @@
+stadtteil_id,stadtteil_name,stadtbezirk_id,stadtbezirk_name,rechtsrheinisch,schreibvarianten
+101,Altstadt/Süd,1,Innenstadt,0,Altstadt-Süd|Altstadt Süd|Altstadt/Sued|Altstadt-Sued|Altstadt Sued
+102,Neustadt/Süd,1,Innenstadt,0,Neustadt-Süd|Neustadt Süd|Neustadt/Sued|Neustadt-Sued|Neustadt Sued
+103,Altstadt/Nord,1,Innenstadt,0,Altstadt-Nord|Altstadt Nord
+104,Neustadt/Nord,1,Innenstadt,0,Neustadt-Nord|Neustadt Nord
+105,Deutz,1,Innenstadt,1,
+201,Bayenthal,2,Rodenkirchen,0,
+202,Marienburg,2,Rodenkirchen,0,
+203,Raderberg,2,Rodenkirchen,0,
+204,Raderthal,2,Rodenkirchen,0,
+205,Zollstock,2,Rodenkirchen,0,
+206,Rondorf,2,Rodenkirchen,0,
+207,Hahnwald,2,Rodenkirchen,0,
+208,Rodenkirchen,2,Rodenkirchen,0,
+209,Weiß,2,Rodenkirchen,0,Weiss
+210,Sürth,2,Rodenkirchen,0,Suerth
+211,Godorf,2,Rodenkirchen,0,
+212,Immendorf,2,Rodenkirchen,0,
+213,Meschenich,2,Rodenkirchen,0,
+301,Klettenberg,3,Lindenthal,0,
+302,Sülz,3,Lindenthal,0,Suelz
+303,Lindenthal,3,Lindenthal,0,
+304,Braunsfeld,3,Lindenthal,0,
+305,Müngersdorf,3,Lindenthal,0,Muengersdorf
+306,Junkersdorf,3,Lindenthal,0,
+307,Weiden,3,Lindenthal,0,
+308,Lövenich,3,Lindenthal,0,Loevenich
+309,Widdersdorf,3,Lindenthal,0,
+401,Ehrenfeld,4,Ehrenfeld,0,
+402,Neuehrenfeld,4,Ehrenfeld,0,
+403,Bickendorf,4,Ehrenfeld,0,
+404,Vogelsang,4,Ehrenfeld,0,
+405,Bocklemünd/Mengenich,4,Ehrenfeld,0,Bocklemünd-Mengenich|Bocklemünd Mengenich|Bocklemuend/Mengenich|Bocklemuend-Mengenich|Bocklemuend Mengenich
+406,Ossendorf,4,Ehrenfeld,0,
+501,Nippes,5,Nippes,0,
+502,Mauenheim,5,Nippes,0,
+503,Riehl,5,Nippes,0,
+504,Niehl,5,Nippes,0,
+505,Weidenpesch,5,Nippes,0,
+506,Longerich,5,Nippes,0,
+507,Bilderstöckchen,5,Nippes,0,Bilderstoeckchen
+601,Merkenich,6,Chorweiler,0,
+602,Fühlingen,6,Chorweiler,0,Fuehlingen
+603,Seeberg,6,Chorweiler,0,
+604,Heimersdorf,6,Chorweiler,0,
+605,Lindweiler,6,Chorweiler,0,
+606,Pesch,6,Chorweiler,0,
+607,Esch/Auweiler,6,Chorweiler,0,Esch-Auweiler|Esch Auweiler
+608,Volkhoven/Weiler,6,Chorweiler,0,Volkhoven-Weiler|Volkhoven Weiler
+609,Chorweiler,6,Chorweiler,0,
+610,Blumenberg,6,Chorweiler,0,
+611,Roggendorf/Thenhoven,6,Chorweiler,0,Roggendorf-Thenhoven|Roggendorf Thenhoven
+612,Worringen,6,Chorweiler,0,
+701,Poll,7,Porz,1,
+702,Westhoven,7,Porz,1,
+703,Ensen,7,Porz,1,
+704,Gremberghoven,7,Porz,1,
+705,Eil,7,Porz,1,
+706,Porz,7,Porz,1,
+707,Urbach,7,Porz,1,
+708,Eisdorf,7,Porz,1,
+709,Grengel,7,Porz,1,
+710,Wahnheide,7,Porz,1,
+711,Wahn,7,Porz,1,
+712,Lind,7,Porz,1,
+713,Libur,7,Porz,1,
+714,Zündorf,7,Porz,1,Zuendorf
+715,Langel,7,Porz,1,
+716,Finkenberg,7,Porz,1,
+801,Humboldt/Gremberg,8,Kalk,1,Humboldt-Gremberg|Humboldt Gremberg
+802,Kalk,8,Kalk,1,
+803,Vingst,8,Kalk,1,
+804,Höhenberg,8,Kalk,1,Hoehenberg
+805,Ostheim,8,Kalk,1,
+806,Merheim,8,Kalk,1,
+807,Brück,8,Kalk,1,Brueck
+808,Rath/Heumar,8,Kalk,1,Rath-Heumar|Rath Heumar
+809,Neubrück,8,Kalk,1,Neubrueck
+901,Mülheim,9,Mülheim,1,Muelheim
+902,Buchforst,9,Mülheim,1,
+903,Buchheim,9,Mülheim,1,
+904,Holweide,9,Mülheim,1,
+905,Dellbrück,9,Mülheim,1,Dellbrueck
+906,Höhenhaus,9,Mülheim,1,Hoehenhaus
+907,Dünnwald,9,Mülheim,1,Duennwald
+908,Stammheim,9,Mülheim,1,
+909,Flittard,9,Mülheim,1,

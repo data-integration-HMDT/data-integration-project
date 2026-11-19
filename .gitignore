@@ -11,17 +11,20 @@ venv/
 .venv/
 env/
 
-# Large raw datasets (do not commit GBs of raw data to git)
-data/raw/*.tsv
-data/raw/*.tsv.gz
-data/raw/*.csv
+# Daten: Rohdaten und Zwischenergebnisse werden vom Code erzeugt, nicht committet
+data/raw/**
+data/interim/**
 data/processed/*.parquet
-!data/raw/.gitkeep
-!data/processed/.gitkeep
+!data/**/.gitkeep
 
 # Environment variables & keys
 .env
+.env.*
+!.env.example
 
 # OS generated files
 .DS_Store
 Thumbs.db
+
+# Logs
+*.log
