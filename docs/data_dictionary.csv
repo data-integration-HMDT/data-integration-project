@@ -1,0 +1,15 @@
+variable,beschreibung,einheit,quelle,abrufdatum,berechnung,verantwortlich
+stadtteil_id,Offizielle Stadtteilnummer der Stadt Köln,Text (3-stellig),Stadt Köln – Stadtteile-Musterbuch 2021,2026-11-19,übernommen,D
+stadtteil_name,Offizieller Stadtteilname (nur Anzeige),Text,Stadt Köln – Stadtteile-Musterbuch 2021,2026-11-19,übernommen,D
+stadtbezirk_id,Stadtbezirksnummer (erste Ziffer der stadtteil_id),Text,abgeleitet,2026-11-19,erste Ziffer der stadtteil_id,D
+stadtbezirk_name,Name des Stadtbezirks,Text,Stadt Köln (Bezirksnamen nicht im Musterbuch),2026-11-19,Zuordnung über stadtbezirk_id,D
+rechtsrheinisch,Stadtteil liegt rechts des Rheins,0/1 (1 = rechts),abgeleitet,2026-11-19,Bezirke Porz/Kalk/Mülheim + Deutz; Prüfung J-05,C
+miete_qm,Angebotsmiete (kalt) je Stadtteil,€/m²,,,Median der Angebote je Stadtteil,A
+gruen_anteil_pct,Anteil öffentlicher Grünflächen an der Stadtteilfläche,% (0–100),,,Grünfläche / Stadtteilfläche * 100,B
+park_distanz_m,Mittlere Distanz zum nächsten Park,m,,,,B
+haltestellen_anz,Anzahl KVB-Haltestellen im Stadtteil,Anzahl,,,Haltestellen per Spatial Join gezählt (Steige zusammengefasst),C
+haltestellen_pro_km2,Haltestellendichte,1/km²,,,haltestellen_anz / flaeche_km2,C
+einwohner_anz,Einwohnerzahl,Anzahl,,,,D
+alter_18_29_pct,Anteil der 18- bis 29-Jährigen (Ersatzgröße für Studierende),% (0–100),,,,D
+haushalt_groesse_mittel,Durchschnittliche Haushaltsgröße,Personen je Haushalt,,,,D
+einpersonen_hh_pct,Anteil der Einpersonenhaushalte,% (0–100),,,,D
