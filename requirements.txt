@@ -1,1 +1,10 @@
-one-time: crawl4ai-setup after installing
+# Nach der Installation einmalig ausführen:  crawl4ai-setup   (lädt den Browser für Crawl4AI)
+pandas>=2.0
+geopandas>=0.14
+shapely>=2.0
+pyproj>=3.6
+requests>=2.31
+crawl4ai
+rapidfuzz>=3.0
+python-dotenv>=1.0
+pytest>=7.0
